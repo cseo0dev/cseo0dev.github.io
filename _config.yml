@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "서요ગથ ኀዞ공타임"
+title                    : "서요이의 개공타임"
 title_separator          : "|"
 subtitle                 : "　　　　ʕo•ᴥ•ʔ✎✉"
-name                     : "서요ગᴵᴺᶠᴶ"
+name                     : "서요ગથ ኀዞ공타임"
 description              : "📌오늘은 뭘 할까낭!"
 url                      : "https://cseo0dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "서요ગથ-ኀዞ공타임"
+    shortname            : "서요이의-개공타임"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "서요ગᴵᴺᶠᴶ"
+  name             : "서요ગથ ኀዞ공타임"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "📌오늘은 뭘 할까낭!"
-  location         : "South korea"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "seoyoung1025s@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,11 +125,14 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/cseo0"
+      url: "https://instagram.com/cseo0"
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "seoyoung1025s@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -147,7 +150,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/cseo0"
 
 
 # Reading Files
